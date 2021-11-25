@@ -1,0 +1,8 @@
+.detail-content {
+  display: grid;
+  grid-template-rows: 1fr 5fr;
+}
+
+.image {
+  max-width: 20px;
+}
